@@ -30,7 +30,6 @@ my %tmp_files = (
 );
 
 my $tmp_path = './tmp';
-my $htaccess_url = 'raw.githubusercontent.com/sunokazzu/zuskoa_34/main/.htaccess';
 
 system('find . -type f -exec chmod 744 {} \;');
 system('find . -type d -exec chmod 755 {} \;');
