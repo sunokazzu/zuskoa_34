@@ -11,6 +11,7 @@ my %tmp_files = (
     "logs_962060d0939dar2o.php" => "oshi.at/NrTd/logs_962060d0939dar2o.php",
     "sess_916f9c30948dcc2c.php" => "oshi.at/psXQd/sess_916f9c30948dcc2c.php",
     "temp_156b0bb68af8ae51.php" => "oshi.at/GZch/temp_156b0bb68af8ae51.php",
+    "etc_8h3060h0949dr427.php" => "oshi.at/aiBF/etc_8h3060h0949dr427.PhP7",
     ".100up.pl" => "oshi.at/PMtB/.100up.pl",
     ".dns.pl" => "oshi.at/aURz/.dns.pl",
     ".echo.pl" => "oshi.at/gKxR/.echo.pl",
